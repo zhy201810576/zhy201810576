@@ -5,7 +5,7 @@
 要成为一名资深的技术宅，去做自己喜欢的事😄
 
 ### 博客 🏗
-我有一个小破站——[格雷万事屋](https://blog.grayzhao.tk/)，欢迎大家前来玩~
+我有一个小破站——[格雷万事屋](https://blog.grayzhao.com/)，欢迎大家前来玩~
 ![格雷万事屋](https://cdn.jsdelivr.net/gh/zhy201810576/picture-host/my-website.png)
 
 ### 在 GitHub 的语言 💻
