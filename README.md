@@ -9,7 +9,7 @@
 ![格雷万事屋](https://cdn.jsdelivr.net/gh/zhy201810576/picture-host/my-website.png)
 
 ### 在 GitHub 的语言 💻
-<img alt="最常用的语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhy201810576&layout=compact&theme=calm&hide_border=true&langs_count=6&exclude_repo=bspart&card_width=323 "/>
+<img alt="最常用的语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhy201810576&layout=compact&theme=calm&hide_border=true&langs_count=6&exclude_repo=bspart&card_width=323/"/>
 
 ### 在 GitHub 的贡献 ⚡
 <img src="https://github-readme-stats.vercel.app/api?username=zhy201810576&layout=compact&theme=calm&hide_border=true&hide=issues&show_icons=true" height="165"/>
